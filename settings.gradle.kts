@@ -7,5 +7,5 @@
  * in the user manual at https://docs.gradle.org/7.6/userguide/multi_project_builds.html
  */
 
-rootProject.name = "ioexception-on-gradle-clean-task-due-trace-file-jreleaser"
+rootProject.name = "ioexception-in-gradlew-clean-task-due-to-jrelease-folder-cannot-be-deleted"
 include("lib")
